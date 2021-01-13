@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @vleguen
 facebook:
   username               :
   app_id                 :
@@ -86,9 +86,9 @@ author:
   location         : "Paris (France)"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.fr/citations?user=sFkWZ_EAAAAJ&hl=fr"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :   "https://www.researchgate.net/profile/Vincent_Le_Guen2?ev=hdr_xprf&_sg=KL88IGaJL9zNqwnODk_ZCXSLfvrtlEcEfUmJRbb4LWlATQ5-hqlXl6oG2R0uj26vbybibYAVZau04Yr2-ApYOR_e"
   uri              :
   bitbucket        :
   codepen          :
